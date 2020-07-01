@@ -26,7 +26,7 @@
           </elementProp>
           <elementProp name="filename" elementType="Argument">
             <stringProp name="Argument.name">filename</stringProp>
-            <stringProp name="Argument.value">\shared_data\CFSF_PurchaseFlow_qa2_realdriver_CA_SRI_07012020.csv</stringProp>
+            <stringProp name="Argument.value">CFSF_PurchaseFlow_qa2_realdriver_CA_SRI_07012020.csv</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
           </elementProp>
           <elementProp name="systemDate" elementType="Argument">
